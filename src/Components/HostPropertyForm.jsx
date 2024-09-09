@@ -10,7 +10,7 @@ const HostPropertyForm = () => {
   const onSubmit = (data) => {
 
     SetHostData(data);
-    console.log(hostData);
+    
     setShowModal(true)
     
     // Handle form submission, e.g., send data to a server
@@ -18,11 +18,13 @@ const HostPropertyForm = () => {
   };
   const closemodal=()=>{
 
-    setShowModal(false)
+    setShowModal(false);
+    reset();
   }
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="flex justify-around mt-8 mb-8 ">
+      <div className='w-1/3'>
       <h1 className="text-2xl font-bold mb-4">Host Your Property</h1>
       <p className="mb-4 text-lg">
         Welcome to the property hosting page, where you can easily list your property and make it available for guests to book. Whether you have a cozy apartment, a charming house, or a unique vacation rental, we’re here to help you showcase your property to potential guests. Our user-friendly form will guide you through every step of the listing process, ensuring that you provide all the necessary information to attract the right guests and maximize your booking potential.
@@ -30,7 +32,8 @@ const HostPropertyForm = () => {
       <p className="mb-4 text-lg">
         Hosting your property offers a fantastic opportunity to earn extra income while sharing your unique space with travelers from around the world. By listing your property, you can tap into a global market of guests seeking comfortable, memorable stays. Our platform connects hosts with a diverse audience, allowing you to highlight the features and amenities that make your property stand out.
       </p>
-      <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+      </div>
+      <form onSubmit={handleSubmit(onSubmit)} className="w-1/2 border-2 p-7 rounded-lg">
         
         {/* Basic Property Information */}
         <div>

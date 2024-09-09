@@ -33,11 +33,11 @@ const Navbar = () => {
                 {/* Right Side Links */}
                 <div className='flex items-center gap-x-5 relative'>
                     <Link to='/traveltribehost'>
-                    <span>Become a TravelTribe Host</span>
+                        <span>Become a TravelTribe Host</span>
                     </Link>
-                    
+
                     <IoIosGlobe />
-                    
+
 
 
                     {/* User and Hamburger on the right side */}
@@ -49,7 +49,7 @@ const Navbar = () => {
 
                         {/* Dropdown Menu */}
                         {profileInfo && (
-                            <div className='absolute top-full right-0 w-72
+                            <div className='absolute top-full right-0 w-80
                              rounded-md p-4 space-y-4 bg-white mt-2 shadow-md z-10 '>
                                 <p className='font-semibold'>Sign-Up</p>
                                 <p>Login</p>
@@ -58,7 +58,9 @@ const Navbar = () => {
                                 </Link>
 
                                 <hr className='border-2 shadow-2xl' />
-                                <p>Become a TravelTribe Host</p>
+                                <Link to='/traveltribehost'>
+                                    <span>Become a TravelTribe Host</span>
+                                </Link>
                                 <p>Help Center</p>
                             </div>
                         )}
