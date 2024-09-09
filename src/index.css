@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.react-tabs {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.react-tabs__tab-list {
+ 
+  margin: 0 0 10px;
+  padding: 5px;
+}
+
+.react-tabs__tab {
+  background: white;
+  display: inline-block;
+  position: relative;
+  list-style: none;
+  padding: 14px 24px;
+  cursor: pointer;
+}
+
+.react-tabs__tab--selected {
+  border-bottom: 3px solid black ;
+  color: black;
+  outline: none;
+}
+
+
+
+
+
+.react-tabs__tab-panel {
+  display: none;
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}

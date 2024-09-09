@@ -1,0 +1,2957 @@
+[
+    {
+        "id": 1,
+        "title": "Velhe, Torna-Rajgad, India",
+        "hotelName": "Velhe, Torna-Rajgad, India",
+        "img": "/Velhe.webp",
+        "description": "A scenic getaway in Velhe, offering a unique stay near Torna-Rajgad. Experience the blend of rustic charm and modern comfort.",
+        "distance": "77 km away",
+        "date": "Sep 20 - 28",
+        "price": "2800/night",
+        "rating": 4.5,
+        "reviews": 22,
+        "availability": {
+            "check_in": "2024-09-20",
+            "check_out": "2024-09-28",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Parking"
+        ],
+        "reviews_data": [
+            {
+                "user": "Priya Sharma",
+                "date": "2024-08-10",
+                "rating": 5,
+                "comment": "Fantastic place with beautiful views! The stay was very relaxing."
+            },
+            {
+                "user": "Ravi Mehta",
+                "date": "2024-07-15",
+                "rating": 4,
+                "comment": "Nice place but the Wi-Fi was spotty."
+            },
+            {
+                "user": "Neelam Gupta",
+                "date": "2024-08-25",
+                "rating": 4.7,
+                "comment": "Charming and peaceful. The surroundings were serene and perfect for relaxation."
+            },
+            {
+                "user": "Amit Patel",
+                "date": "2024-07-28",
+                "rating": 4.2,
+                "comment": "The cabin was cozy but the road leading to the property was a bit rough."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Gokarna",
+        "hotelName": "Gokarna",
+        "img": "/Gokarna.webp",
+        "description": "Enjoy a serene stay in Gokarna, known for its beaches and temples. A perfect destination for relaxation and exploration.",
+        "distance": "55 km away",
+        "date": "Sep 21 - 29",
+        "price": "1400/night",
+        "rating": 4.7,
+        "reviews": 18,
+        "availability": {
+            "check_in": "2024-09-21",
+            "check_out": "2024-09-29",
+            "guests": 2
+        },
+        "amenities": [
+            "Free Breakfast",
+            "Beach Access",
+            "Swimming Pool"
+        ],
+        "reviews_data": [
+            {
+                "user": "Anita Rao",
+                "date": "2024-08-05",
+                "rating": 5,
+                "comment": "The best stay ever! The beach view was breathtaking."
+            },
+            {
+                "user": "Sanjay Patel",
+                "date": "2024-07-20",
+                "rating": 4.5,
+                "comment": "Great location and amenities, but a bit noisy at night."
+            },
+            {
+                "user": "Meera Reddy",
+                "date": "2024-08-15",
+                "rating": 4.8,
+                "comment": "Wonderful experience! The beach access was a highlight, and the breakfast was fantastic."
+            },
+            {
+                "user": "Vikram Singh",
+                "date": "2024-07-28",
+                "rating": 4.2,
+                "comment": "The stay was pleasant, but the check-in process was a bit slow."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Lonavla, India",
+        "hotelName": "Lonavla, India",
+        "img": "/Lonavla.webp",
+        "description": "A tranquil stay in Lonavla, surrounded by nature and hills. Ideal for a peaceful retreat from the city life.",
+        "distance": "90 km away",
+        "date": "Sep 22 - 30",
+        "price": "1900/night",
+        "rating": 4.6,
+        "reviews": 20,
+        "availability": {
+            "check_in": "2024-09-22",
+            "check_out": "2024-09-30",
+            "guests": 3
+        },
+        "amenities": [
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Neha Singh",
+                "date": "2024-08-12",
+                "rating": 5,
+                "comment": "Wonderful stay with amazing views and facilities."
+            },
+            {
+                "user": "Kiran Kumar",
+                "date": "2024-07-25",
+                "rating": 4.5,
+                "comment": "A beautiful place but the service could be improved."
+            },
+            {
+                "user": "Rita Deshmukh",
+                "date": "2024-08-20",
+                "rating": 4.6,
+                "comment": "Very relaxing stay. The spa services were excellent and the food was great."
+            },
+            {
+                "user": "Arjun Rao",
+                "date": "2024-07-15",
+                "rating": 4.4,
+                "comment": "The location is great, but the gym equipment needs upgrading."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Udaipur, India",
+        "hotelName": "Udaipur, India",
+        "img": "/Udaipur.webp",
+        "description": "Discover the charm of Udaipur with a stay that offers luxurious comfort and rich cultural experiences.",
+        "distance": "120 km away",
+        "date": "Oct 1 - 7",
+        "price": "3200/night",
+        "rating": 4.9,
+        "reviews": 24,
+        "availability": {
+            "check_in": "2024-10-01",
+            "check_out": "2024-10-07",
+            "guests": 2
+        },
+        "amenities": [
+            "Pool",
+            "Free Wi-Fi",
+            "Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Rajesh Verma",
+                "date": "2024-08-20",
+                "rating": 5,
+                "comment": "Incredible experience with luxurious amenities and excellent service."
+            },
+            {
+                "user": "Simran Kaur",
+                "date": "2024-07-30",
+                "rating": 4.8,
+                "comment": "A wonderful place to stay. The ambiance was perfect for a romantic getaway."
+            },
+            {
+                "user": "Deepak Gupta",
+                "date": "2024-08-12",
+                "rating": 4.9,
+                "comment": "The location is ideal and the service was impeccable. Highly recommended!"
+            },
+            {
+                "user": "Sonal Mehta",
+                "date": "2024-07-18",
+                "rating": 4.7,
+                "comment": "Beautiful hotel with a rich history. Enjoyed the local cuisine at the restaurant."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "/Nashik.webp",
+        "hotelName": "Pimplad Nashik, India",
+        "distance": "150 km away",
+        "date": "Oct 2 - 8",
+        "price": "2700/night",
+        "description": "A serene stay in Pimplad Nashik, offering a relaxing retreat with beautiful surroundings. Enjoy comfortable accommodations and easy access to local attractions.",
+        "host": {
+            "name": "Sunil Kumar",
+            "profilePicture": "sunil_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.2,
+        "reviews": 35,
+        "availability": {
+            "check_in": "2024-10-02",
+            "check_out": "2024-10-08",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Parking",
+            "Swimming Pool"
+        ],
+        "reviews_data": [
+            {
+                "user": "Anita Rao",
+                "date": "2024-08-20",
+                "rating": 4,
+                "comment": "Good stay with comfortable rooms. The pool was a nice addition, but the Wi-Fi could be improved."
+            },
+            {
+                "user": "Vikram Singh",
+                "date": "2024-07-15",
+                "rating": 3.5,
+                "comment": "The location was peaceful, but the amenities were basic. The service was okay."
+            },
+            {
+                "user": "Meera Patel",
+                "date": "2024-09-10",
+                "rating": 4.5,
+                "comment": "Great place for a short getaway. The host was very friendly, and the surroundings were lovely."
+            },
+            {
+                "user": "Rajesh Kumar",
+                "date": "2024-06-30",
+                "rating": 4,
+                "comment": "Nice stay with decent amenities. The price was reasonable for what was offered."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "/Siolim.webp",
+        "hotelName": "Siolim, India",
+        "distance": "100 km away",
+        "date": "Oct 3 - 9",
+        "price": "3500/night",
+        "description": "A charming stay in Siolim with access to local markets and beautiful landscapes. Ideal for a relaxing vacation.",
+        "host": {
+            "name": "Rajiv Menon",
+            "profilePicture": "rajiv_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 50,
+        "availability": {
+            "check_in": "2024-10-03",
+            "check_out": "2024-10-09",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Breakfast Included",
+            "Free Parking",
+            "Pool"
+        ],
+        "reviews_data": [
+            {
+                "user": "Nina Sharma",
+                "date": "2024-08-25",
+                "rating": 5,
+                "comment": "Fantastic stay! The property was beautiful and well-maintained. The host was very accommodating."
+            },
+            {
+                "user": "Arun Bhatia",
+                "date": "2024-07-05",
+                "rating": 4.5,
+                "comment": "Lovely place with great amenities. A bit far from the city center, but worth it for the tranquility."
+            },
+            {
+                "user": "Sneha Gupta",
+                "date": "2024-09-15",
+                "rating": 4,
+                "comment": "Good experience overall. The pool was a nice touch, and the breakfast was excellent."
+            },
+            {
+                "user": "Karan Mehta",
+                "date": "2024-06-18",
+                "rating": 4.2,
+                "comment": "Nice getaway, though a few improvements could be made in the room service."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "/Dabolim.webp",
+        "hotelName": "Dabolim, India",
+        "distance": "85 km away",
+        "date": "Oct 4 - 10",
+        "price": "2900/night",
+        "description": "A comfortable stay in Dabolim with convenient access to local attractions and beautiful beaches.",
+        "host": {
+            "name": "Sonia Kapoor",
+            "profilePicture": "sonia_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.3,
+        "reviews": 42,
+        "availability": {
+            "check_in": "2024-10-04",
+            "check_out": "2024-10-10",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Breakfast",
+            "Beach Access"
+        ],
+        "reviews_data": [
+            {
+                "user": "Rajesh Rao",
+                "date": "2024-08-10",
+                "rating": 4.2,
+                "comment": "Nice location and good value for money. Could use some improvements in the cleanliness."
+            },
+            {
+                "user": "Priya Singh",
+                "date": "2024-07-20",
+                "rating": 4.5,
+                "comment": "Very pleasant stay with friendly staff. The beach access was a big plus."
+            },
+            {
+                "user": "Amit Joshi",
+                "date": "2024-09-05",
+                "rating": 4,
+                "comment": "Comfortable stay but had a few issues with the air conditioning. Otherwise, it was a good experience."
+            },
+            {
+                "user": "Sita Rani",
+                "date": "2024-06-28",
+                "rating": 4.3,
+                "comment": "Good amenities and friendly service. The breakfast was decent, but could be improved."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "/Arpora.webp",
+        "hotelName": "Arpora",
+        "distance": "95 km away",
+        "date": "Oct 5 - 11",
+        "price": "3100/night",
+        "description": "Experience the charm of Arpora with this well-located property offering modern amenities and easy access to local attractions.",
+        "host": {
+            "name": "Vikram Patel",
+            "profilePicture": "vikram_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 38,
+        "availability": {
+            "check_in": "2024-10-05",
+            "check_out": "2024-10-11",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Pool",
+            "Gym",
+            "Free Parking"
+        ],
+        "reviews_data": [
+            {
+                "user": "Nisha Kapoor",
+                "date": "2024-08-30",
+                "rating": 5,
+                "comment": "Fantastic stay! The property was well-maintained, and the host was very helpful."
+            },
+            {
+                "user": "Sunil Sharma",
+                "date": "2024-07-25",
+                "rating": 4.5,
+                "comment": "Great location and amenities. The pool and gym were very well-equipped."
+            },
+            {
+                "user": "Rita Mehta",
+                "date": "2024-09-12",
+                "rating": 4.2,
+                "comment": "Very comfortable stay with good facilities. Could improve on the breakfast options."
+            },
+            {
+                "user": "Gaurav Kumar",
+                "date": "2024-06-15",
+                "rating": 4.4,
+                "comment": "Nice property with good amenities. The service was prompt and friendly."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "img": "/raigad.webp",
+        "hotelName": "Raigad",
+        "distance": "90 km away",
+        "date": "Sep 21 - 29",
+        "price": "2800/night",
+        "location": "Raigad, India",
+        "description": "Enjoy a serene stay in Raigad with beautiful views and a relaxing environment. Ideal for nature lovers and adventure enthusiasts.",
+        "host": {
+            "name": "Anil Verma",
+            "profilePicture": "anil_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.1,
+        "reviews": 29,
+        "availability": {
+            "check_in": "2024-09-21",
+            "check_out": "2024-09-29",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Breakfast Included",
+            "Free Parking",
+            "Nature Trails"
+        ],
+        "reviews_data": [
+            {
+                "user": "Rekha Singh",
+                "date": "2024-08-05",
+                "rating": 4,
+                "comment": "Beautiful location and peaceful stay. However, the room could use some updates."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-07-12",
+                "rating": 4.2,
+                "comment": "Enjoyed the stay with great views. The amenities were decent but could be improved."
+            },
+            {
+                "user": "Manisha Agarwal",
+                "date": "2024-09-02",
+                "rating": 4.5,
+                "comment": "Great place for a nature retreat. The host was very helpful and the environment was serene."
+            },
+            {
+                "user": "Rajiv Joshi",
+                "date": "2024-06-20",
+                "rating": 4.3,
+                "comment": "Nice stay with beautiful surroundings. The service was good, but the rooms could be cleaner."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "img": "/bhayandar.webp",
+        "hotelName": "Bhayandar (West)",
+        "distance": "50 km away",
+        "date": "Sep 22 - 30",
+        "price": "3000/night",
+        "location": "Bhayandar (West), India",
+        "description": "A convenient stay in Bhayandar (West) with easy access to local amenities and attractions. Perfect for both business and leisure travelers.",
+        "host": {
+            "name": "Deepak Sharma",
+            "profilePicture": "deepak_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.4,
+        "reviews": 41,
+        "availability": {
+            "check_in": "2024-09-22",
+            "check_out": "2024-09-30",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Gym",
+            "Free Parking",
+            "Business Center"
+        ],
+        "reviews_data": [
+            {
+                "user": "Pooja Patel",
+                "date": "2024-08-15",
+                "rating": 4.5,
+                "comment": "Good stay with comfortable amenities and a helpful host. The location is very convenient."
+            },
+            {
+                "user": "Sandeep Kumar",
+                "date": "2024-07-18",
+                "rating": 4,
+                "comment": "Nice property with good facilities. The gym was well-equipped, but the room service could be better."
+            },
+            {
+                "user": "Neha Agarwal",
+                "date": "2024-09-05",
+                "rating": 4.2,
+                "comment": "Overall a pleasant experience. The business center was very useful for my work needs."
+            },
+            {
+                "user": "Vikram Joshi",
+                "date": "2024-06-25",
+                "rating": 4.3,
+                "comment": "Decent stay with good amenities. The Wi-Fi and parking were very convenient."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "img": "/kharavandi.webp",
+        "hotelName": "Kharavandi",
+        "distance": "110 km away",
+        "date": "Oct 1 - 7",
+        "price": "3200/night",
+        "location": "Kharavandi, India",
+        "description": "A serene retreat in Kharavandi, offering a relaxing stay with scenic views and modern amenities.",
+        "host": {
+            "name": "Sanjay Gupta",
+            "profilePicture": "sanjay_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 37,
+        "availability": {
+            "check_in": "2024-10-01",
+            "check_out": "2024-10-07",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Swimming Pool",
+            "Free Breakfast",
+            "Spa",
+            "Parking"
+        ],
+        "reviews_data": [
+            {
+                "user": "Anita Sharma",
+                "date": "2024-08-10",
+                "rating": 5,
+                "comment": "Wonderful stay! The views were spectacular, and the amenities were top-notch."
+            },
+            {
+                "user": "Rajiv Mehta",
+                "date": "2024-07-15",
+                "rating": 4.8,
+                "comment": "Great experience overall. The spa and pool were fantastic."
+            },
+            {
+                "user": "Rina Patel",
+                "date": "2024-09-05",
+                "rating": 4.3,
+                "comment": "Very relaxing stay. The breakfast was excellent, but the Wi-Fi could be improved."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-06-20",
+                "rating": 4.5,
+                "comment": "A great getaway spot. The host was very welcoming and helpful."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "/awale.webp",
+        "hotelName": "Awale",
+        "distance": "95 km away",
+        "date": "Oct 2 - 8",
+        "price": "2700/night",
+        "location": "Awale, India",
+        "description": "A charming stay in Awale with beautiful surroundings and essential amenities for a comfortable visit.",
+        "host": {
+            "name": "Meera Joshi",
+            "profilePicture": "meera_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.5,
+        "reviews": 29,
+        "availability": {
+            "check_in": "2024-10-02",
+            "check_out": "2024-10-08",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Parking",
+            "Kitchenette",
+            "Pet-Friendly"
+        ],
+        "reviews_data": [
+            {
+                "user": "Deepak Rao",
+                "date": "2024-08-20",
+                "rating": 4.7,
+                "comment": "Very pleasant stay. The kitchen was well-equipped and the location was peaceful."
+            },
+            {
+                "user": "Sonal Mehta",
+                "date": "2024-07-30",
+                "rating": 4.4,
+                "comment": "Nice stay with friendly hosts. The pet-friendly policy was a big plus."
+            },
+            {
+                "user": "Arjun Kumar",
+                "date": "2024-09-10",
+                "rating": 4.3,
+                "comment": "Good place for a short stay. The Wi-Fi and air conditioning worked well."
+            },
+            {
+                "user": "Kavita Patel",
+                "date": "2024-06-15",
+                "rating": 4.6,
+                "comment": "Comfortable and convenient. The host was very accommodating."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "img": "/alibag.webp",
+        "hotelName": "Alibag",
+        "distance": "120 km away",
+        "date": "Oct 3 - 9",
+        "price": "3500/night",
+        "location": "Alibag, India",
+        "description": "Luxurious stay in Alibag with top-tier amenities and beautiful coastal views.",
+        "host": {
+            "name": "Siddharth Kapoor",
+            "profilePicture": "siddharth_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 45,
+        "availability": {
+            "check_in": "2024-10-03",
+            "check_out": "2024-10-09",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Beach Access",
+            "Infinity Pool",
+            "Bar",
+            "Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Neeraj Gupta",
+                "date": "2024-08-25",
+                "rating": 5,
+                "comment": "Absolutely amazing! The beach access and infinity pool were highlights."
+            },
+            {
+                "user": "Priti Sharma",
+                "date": "2024-07-20",
+                "rating": 4.8,
+                "comment": "Excellent stay with beautiful views. The restaurant had a great selection."
+            },
+            {
+                "user": "Raj Kumar",
+                "date": "2024-09-12",
+                "rating": 4.6,
+                "comment": "Very luxurious experience. The bar service was top-notch."
+            },
+            {
+                "user": "Simran Patel",
+                "date": "2024-06-28",
+                "rating": 4.7,
+                "comment": "A fantastic getaway spot. The host was incredibly friendly and helpful."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "img": "/kolgaon.webp",
+        "hotelName": "Kolgaon",
+        "distance": "65 km away",
+        "date": "Oct 4 - 10",
+        "price": "2900/night",
+        "location": "Kolgaon, India",
+        "description": "A cozy and comfortable stay in Kolgaon with all the essentials for a great visit.",
+        "host": {
+            "name": "Anil Verma",
+            "profilePicture": "anil_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.2,
+        "reviews": 32,
+        "availability": {
+            "check_in": "2024-10-04",
+            "check_out": "2024-10-10",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "TV",
+            "Free Parking",
+            "Air Conditioning"
+        ],
+        "reviews_data": [
+            {
+                "user": "Aarti Gupta",
+                "date": "2024-08-18",
+                "rating": 4.4,
+                "comment": "Cozy stay with good amenities. The TV and air conditioning were great."
+            },
+            {
+                "user": "Sunil Sharma",
+                "date": "2024-07-25",
+                "rating": 4.1,
+                "comment": "A pleasant stay overall. The Wi-Fi connection was a bit spotty."
+            },
+            {
+                "user": "Riya Patel",
+                "date": "2024-09-15",
+                "rating": 4.3,
+                "comment": "Comfortable and affordable. The host was friendly and accommodating."
+            },
+            {
+                "user": "Manoj Kumar",
+                "date": "2024-06-30",
+                "rating": 4.2,
+                "comment": "Good value for money. The location was convenient for exploring the area."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "img": "/karjat.webp",
+        "hotelName": "Karjat",
+        "distance": "80 km away",
+        "date": "Oct 5 - 11",
+        "price": "3100/night",
+        "location": "Karjat, India",
+        "description": "Comfortable stay in Karjat with great amenities and easy access to local attractions.",
+        "host": {
+            "name": "Neha Shah",
+            "profilePicture": "neha_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.6,
+        "reviews": 45,
+        "availability": {
+            "check_in": "2024-10-05",
+            "check_out": "2024-10-11",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Air Conditioning",
+            "Balcony",
+            "TV"
+        ],
+        "reviews_data": [
+            {
+                "user": "Sandeep Patel",
+                "date": "2024-08-18",
+                "rating": 4.7,
+                "comment": "Great place to stay! The balcony was perfect for enjoying the view."
+            },
+            {
+                "user": "Ritika Agarwal",
+                "date": "2024-07-05",
+                "rating": 4.6,
+                "comment": "Very comfortable stay. The Wi-Fi and air conditioning were great."
+            },
+            {
+                "user": "Amit Kumar",
+                "date": "2024-09-10",
+                "rating": 4.5,
+                "comment": "Good location and amenities. The host was friendly and helpful."
+            },
+            {
+                "user": "Priya Singh",
+                "date": "2024-06-20",
+                "rating": 4.4,
+                "comment": "Enjoyed our stay. The TV and free parking were much appreciated."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "img": "/anjar.webp",
+        "hotelName": "Anjar",
+        "distance": "200 km away",
+        "date": "Oct 5 - 11",
+        "price": "3200/night",
+        "location": "Anjar, India",
+        "description": "A spacious stay in Anjar with modern amenities and a tranquil environment.",
+        "host": {
+            "name": "Amit Joshi",
+            "profilePicture": "amit_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 52,
+        "availability": {
+            "check_in": "2024-10-05",
+            "check_out": "2024-10-11",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Gym",
+            "Free Parking",
+            "Balcony",
+            "Kitchen"
+        ],
+        "reviews_data": [
+            {
+                "user": "Nisha Patel",
+                "date": "2024-08-22",
+                "rating": 5,
+                "comment": "Fantastic stay! The gym and balcony were perfect for relaxing."
+            },
+            {
+                "user": "Karan Singh",
+                "date": "2024-07-18",
+                "rating": 4.6,
+                "comment": "Very comfortable stay. The kitchen was well-equipped."
+            },
+            {
+                "user": "Mina Sharma",
+                "date": "2024-09-20",
+                "rating": 4.5,
+                "comment": "Great amenities and a peaceful location. The Wi-Fi was fast and reliable."
+            },
+            {
+                "user": "Ravi Desai",
+                "date": "2024-06-28",
+                "rating": 4.4,
+                "comment": "Enjoyed our stay. The host was very helpful, and the gym was a nice touch."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "img": "/raia.webp",
+        "hotelName": "Raia",
+        "distance": "180 km away",
+        "date": "Oct 6 - 12",
+        "price": "3100/night",
+        "location": "Raia, India",
+        "description": "Charming accommodation in Raia with beautiful surroundings and essential amenities.",
+        "host": {
+            "name": "Sneha Rao",
+            "profilePicture": "sneha_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.4,
+        "reviews": 40,
+        "availability": {
+            "check_in": "2024-10-06",
+            "check_out": "2024-10-12",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Parking",
+            "Garden",
+            "TV"
+        ],
+        "reviews_data": [
+            {
+                "user": "Raj Patel",
+                "date": "2024-08-30",
+                "rating": 4.5,
+                "comment": "Good stay with a nice garden. The air conditioning worked well."
+            },
+            {
+                "user": "Kavita Deshmukh",
+                "date": "2024-07-25",
+                "rating": 4.3,
+                "comment": "Pleasant stay. The Wi-Fi and TV were great, but the garden could use some upkeep."
+            },
+            {
+                "user": "Anil Verma",
+                "date": "2024-09-15",
+                "rating": 4.4,
+                "comment": "Comfortable stay overall. The host was friendly and responsive."
+            },
+            {
+                "user": "Pooja Kumar",
+                "date": "2024-06-18",
+                "rating": 4.2,
+                "comment": "Decent accommodation. The location was quiet and relaxing."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "img": "/margaon.webp",
+        "hotelName": "Margaon",
+        "distance": "190 km away",
+        "date": "Oct 7 - 13",
+        "price": "3300/night",
+        "location": "Margaon, India",
+        "description": "Luxurious stay in Margaon with excellent facilities and beautiful surroundings.",
+        "host": {
+            "name": "Amit Patel",
+            "profilePicture": "amit_patel_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 63,
+        "availability": {
+            "check_in": "2024-10-07",
+            "check_out": "2024-10-13",
+            "guests": 5
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Swimming Pool",
+            "Free Breakfast",
+            "Spa",
+            "Bar"
+        ],
+        "reviews_data": [
+            {
+                "user": "Anita Mehta",
+                "date": "2024-08-12",
+                "rating": 5,
+                "comment": "Exceptional stay! The pool and spa were perfect for relaxation."
+            },
+            {
+                "user": "Rajesh Gupta",
+                "date": "2024-07-22",
+                "rating": 4.7,
+                "comment": "Great experience overall. The free breakfast was a nice addition."
+            },
+            {
+                "user": "Simran Sharma",
+                "date": "2024-09-18",
+                "rating": 4.6,
+                "comment": "Beautiful location and luxurious amenities. The bar service was excellent."
+            },
+            {
+                "user": "Deepika Patel",
+                "date": "2024-06-25",
+                "rating": 4.5,
+                "comment": "Wonderful stay with great facilities. The host was very accommodating."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "img": "/siolim19.webp",
+        "hotelName": "Siolim",
+        "distance": "210 km away",
+        "date": "Oct 8 - 14",
+        "price": "3500/night",
+        "location": "Siolim, India",
+        "description": "Spacious and serene accommodation in Siolim with modern amenities and a relaxing atmosphere.",
+        "host": {
+            "name": "Rajesh Rao",
+            "profilePicture": "rajesh_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 60,
+        "availability": {
+            "check_in": "2024-10-08",
+            "check_out": "2024-10-14",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Swimming Pool",
+            "Free Parking",
+            "Gym",
+            "Balcony"
+        ],
+        "reviews_data": [
+            {
+                "user": "Manish Joshi",
+                "date": "2024-08-20",
+                "rating": 5,
+                "comment": "Excellent stay! The swimming pool and gym were top-notch."
+            },
+            {
+                "user": "Neeta Agarwal",
+                "date": "2024-07-15",
+                "rating": 4.8,
+                "comment": "Beautiful location with great amenities. Highly recommend!"
+            },
+            {
+                "user": "Suresh Kumar",
+                "date": "2024-09-05",
+                "rating": 4.7,
+                "comment": "The balcony view was amazing. Perfect for a relaxing getaway."
+            },
+            {
+                "user": "Reena Shah",
+                "date": "2024-06-25",
+                "rating": 4.6,
+                "comment": "Had a wonderful time. The gym was a bonus, and the location was serene."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "img": "/velhe20.webp",
+        "hotelName": "Velhe",
+        "distance": "230 km away",
+        "date": "Oct 9 - 15",
+        "price": "3700/night",
+        "location": "Velhe, Torna-Rajgad, India",
+        "description": "A luxurious stay in Velhe with breathtaking views of the Torna-Rajgad range. Perfect for a high-end retreat.",
+        "host": {
+            "name": "Sunil Patil",
+            "profilePicture": "sunil_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 75,
+        "availability": {
+            "check_in": "2024-10-09",
+            "check_out": "2024-10-15",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Luxury Spa",
+            "Private Pool",
+            "Free Parking",
+            "Mountain View"
+        ],
+        "reviews_data": [
+            {
+                "user": "Anjali Mehta",
+                "date": "2024-09-01",
+                "rating": 5,
+                "comment": "Amazing place with stunning views. The luxury spa was fantastic."
+            },
+            {
+                "user": "Vikram Singh",
+                "date": "2024-08-10",
+                "rating": 4.9,
+                "comment": "A perfect luxury escape. The private pool and mountain views were spectacular."
+            },
+            {
+                "user": "Kiran Shah",
+                "date": "2024-09-20",
+                "rating": 4.7,
+                "comment": "Beautiful stay with excellent amenities. A bit pricey but worth it."
+            },
+            {
+                "user": "Sneha Rao",
+                "date": "2024-06-15",
+                "rating": 4.6,
+                "comment": "Great location and luxurious facilities. Had a memorable stay."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "img": "/nashik21.webp",
+        "hotelName": "Nashik",
+        "distance": "220 km away",
+        "date": "Oct 10 - 16",
+        "price": "2900/night",
+        "location": "Nashik, India",
+        "description": "A comfortable stay in Nashik with easy access to local attractions and great service.",
+        "host": {
+            "name": "Deepak Reddy",
+            "profilePicture": "deepak_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.5,
+        "reviews": 50,
+        "availability": {
+            "check_in": "2024-10-10",
+            "check_out": "2024-10-16",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Air Conditioning",
+            "Restaurant",
+            "TV"
+        ],
+        "reviews_data": [
+            {
+                "user": "Pooja Patel",
+                "date": "2024-08-25",
+                "rating": 4.6,
+                "comment": "Nice stay with good amenities. The restaurant was a plus."
+            },
+            {
+                "user": "Rajiv Agarwal",
+                "date": "2024-07-20",
+                "rating": 4.5,
+                "comment": "Comfortable stay and good service. Enjoyed the air conditioning in the heat."
+            },
+            {
+                "user": "Nidhi Sharma",
+                "date": "2024-09-15",
+                "rating": 4.4,
+                "comment": "Good place with decent amenities. The location was convenient."
+            },
+            {
+                "user": "Arvind Kumar",
+                "date": "2024-06-10",
+                "rating": 4.3,
+                "comment": "Pleasant stay. The Wi-Fi and restaurant were nice."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "img": "/pune.webp",
+        "hotelName": "Pune",
+        "distance": "150 km away",
+        "date": "Oct 11 - 17",
+        "price": "2700/night",
+        "location": "Pune, India",
+        "description": "Conveniently located accommodation in Pune with modern amenities and a comfortable stay.",
+        "host": {
+            "name": "Kavita Joshi",
+            "profilePicture": "kavita_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.4,
+        "reviews": 55,
+        "availability": {
+            "check_in": "2024-10-11",
+            "check_out": "2024-10-17",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Breakfast Included",
+            "Air Conditioning",
+            "TV"
+        ],
+        "reviews_data": [
+            {
+                "user": "Amit Deshmukh",
+                "date": "2024-08-30",
+                "rating": 4.5,
+                "comment": "Good stay with breakfast included. Convenient location."
+            },
+            {
+                "user": "Snehal Patil",
+                "date": "2024-07-25",
+                "rating": 4.4,
+                "comment": "Comfortable accommodation. The Wi-Fi and breakfast were good."
+            },
+            {
+                "user": "Harshita Gupta",
+                "date": "2024-09-10",
+                "rating": 4.3,
+                "comment": "Decent stay. Enjoyed the TV and air conditioning."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-06-05",
+                "rating": 4.2,
+                "comment": "Pleasant stay with all the basic amenities."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "img": "/nashik23.webp",
+        "hotelName": "Nashik",
+        "distance": "220 km away",
+        "date": "Oct 12 - 18",
+        "price": "3000/night",
+        "location": "Nashik, India",
+        "description": "A comfortable and stylish stay in Nashik with great amenities and close proximity to local attractions.",
+        "host": {
+            "name": "Amit Sharma",
+            "profilePicture": "amit_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 45,
+        "availability": {
+            "check_in": "2024-10-12",
+            "check_out": "2024-10-18",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Air Conditioning",
+            "Restaurant",
+            "Gym"
+        ],
+        "reviews_data": [
+            {
+                "user": "Priya Patel",
+                "date": "2024-08-28",
+                "rating": 4.7,
+                "comment": "Comfortable stay with all the necessary amenities. The restaurant was a great addition."
+            },
+            {
+                "user": "Rohit Jain",
+                "date": "2024-07-18",
+                "rating": 4.6,
+                "comment": "Good location and modern amenities. Enjoyed the gym facilities."
+            },
+            {
+                "user": "Sonia Kapoor",
+                "date": "2024-09-12",
+                "rating": 4.5,
+                "comment": "Nice stay with good service. The Wi-Fi and air conditioning worked perfectly."
+            },
+            {
+                "user": "Deepak Joshi",
+                "date": "2024-06-20",
+                "rating": 4.4,
+                "comment": "Pleasant stay. The gym and restaurant were highlights."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "img": "/roaches_noires.webp",
+        "hotelName": "Roaches Noires",
+        "distance": "350 km away",
+        "date": "Oct 12 - 18",
+        "price": "4500/night",
+        "location": "Roaches Noires, Mauritius",
+        "description": "Luxurious resort in Roaches Noires with stunning views and exceptional service. Perfect for a high-end vacation.",
+        "host": {
+            "name": "Jean-Claude Dupont",
+            "profilePicture": "jean_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 85,
+        "availability": {
+            "check_in": "2024-10-12",
+            "check_out": "2024-10-18",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Private Beach",
+            "Spa",
+            "Free Parking",
+            "Luxury Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Marc Laurent",
+                "date": "2024-09-01",
+                "rating": 5,
+                "comment": "An outstanding resort with breathtaking views and top-notch service."
+            },
+            {
+                "user": "Claire Moreau",
+                "date": "2024-08-05",
+                "rating": 4.9,
+                "comment": "Everything was perfect. The private beach and spa were incredible."
+            },
+            {
+                "user": "Julien Bernard",
+                "date": "2024-09-15",
+                "rating": 4.8,
+                "comment": "Luxury at its best. Enjoyed every bit of the stay."
+            },
+            {
+                "user": "Sophie Dubois",
+                "date": "2024-06-10",
+                "rating": 4.7,
+                "comment": "Wonderful experience with excellent facilities. A bit pricey but worth it."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "img": "/anambas.webp",
+        "hotelName": "Anambas",
+        "distance": "500 km away",
+        "date": "Oct 13 - 19",
+        "price": "4700/night",
+        "location": "Anambas, Indonesia",
+        "description": "An exotic retreat in Anambas with pristine beaches and luxurious accommodations.",
+        "host": {
+            "name": "Wayan Suarta",
+            "profilePicture": "wayan_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.7,
+        "reviews": 70,
+        "availability": {
+            "check_in": "2024-10-13",
+            "check_out": "2024-10-19",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Private Beach",
+            "Outdoor Pool",
+            "Free Breakfast",
+            "Air Conditioning"
+        ],
+        "reviews_data": [
+            {
+                "user": "Dewi Kartika",
+                "date": "2024-08-15",
+                "rating": 4.8,
+                "comment": "Amazing beach and great service. A perfect tropical getaway."
+            },
+            {
+                "user": "Budi Santoso",
+                "date": "2024-07-10",
+                "rating": 4.7,
+                "comment": "Loved the outdoor pool and private beach. A memorable stay."
+            },
+            {
+                "user": "Intan Putri",
+                "date": "2024-09-05",
+                "rating": 4.6,
+                "comment": "Beautiful location with great amenities. Enjoyed the free breakfast."
+            },
+            {
+                "user": "Rina Mulyani",
+                "date": "2024-06-25",
+                "rating": 4.5,
+                "comment": "Excellent stay with nice facilities. A bit remote but worth the visit."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "img": "/vaavu_atoll.webp",
+        "hotelName": "Vaavu Atoll",
+        "distance": "600 km away",
+        "date": "Oct 14 - 20",
+        "price": "5200/night",
+        "location": "Vaavu Atoll, Maldives",
+        "description": "A high-end resort in Vaavu Atoll offering stunning views, luxury accommodations, and excellent service.",
+        "host": {
+            "name": "Mohamed Ali",
+            "profilePicture": "mohamed_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 95,
+        "availability": {
+            "check_in": "2024-10-14",
+            "check_out": "2024-10-20",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Overwater Bungalows",
+            "Spa",
+            "Free Transfers",
+            "Fine Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Sara Hassan",
+                "date": "2024-09-10",
+                "rating": 5,
+                "comment": "An unparalleled experience. The overwater bungalows and service were exceptional."
+            },
+            {
+                "user": "Ahmed Ibrahim",
+                "date": "2024-08-25",
+                "rating": 4.9,
+                "comment": "Luxurious stay with amazing views. The fine dining was exquisite."
+            },
+            {
+                "user": "Aisha Mohamed",
+                "date": "2024-09-15",
+                "rating": 4.8,
+                "comment": "Great resort with excellent amenities. The spa and free transfers were a nice touch."
+            },
+            {
+                "user": "Omar Ali",
+                "date": "2024-06-30",
+                "rating": 4.7,
+                "comment": "Perfect for a luxury escape. Everything was top-notch."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "img": "/alifu_dhaalu_atoll.webp",
+        "hotelName": "Alifu Dhaalu Atoll",
+        "distance": "620 km away",
+        "date": "Oct 15 - 21",
+        "price": "5300/night",
+        "location": "Alifu Dhaalu Atoll, Maldives",
+        "description": "A luxurious retreat in Alifu Dhaalu Atoll offering stunning ocean views, high-end amenities, and excellent service.",
+        "host": {
+            "name": "Aminath Shaheen",
+            "profilePicture": "aminath_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 100,
+        "availability": {
+            "check_in": "2024-10-15",
+            "check_out": "2024-10-21",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Overwater Villas",
+            "Spa",
+            "Free Transfers",
+            "Gourmet Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Fatima Ibrahim",
+                "date": "2024-09-05",
+                "rating": 4.9,
+                "comment": "Incredible resort with breathtaking views and exceptional service. Worth every penny."
+            },
+            {
+                "user": "Hassan Ali",
+                "date": "2024-08-20",
+                "rating": 4.8,
+                "comment": "The overwater villas were amazing. Loved the gourmet dining experience."
+            },
+            {
+                "user": "Layla Mohamed",
+                "date": "2024-09-10",
+                "rating": 4.7,
+                "comment": "Fantastic stay. The spa and free transfers were a nice touch."
+            },
+            {
+                "user": "Yusuf Ahmed",
+                "date": "2024-07-15",
+                "rating": 4.6,
+                "comment": "Beautiful location with excellent amenities. The Wi-Fi could be better."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "img": "/munroe_island.webp",
+        "hotelName": "Munroe Island",
+        "distance": "150 km away",
+        "date": "Oct 16 - 22",
+        "price": "3500/night",
+        "location": "Munroe Island, India",
+        "description": "A serene escape on Munroe Island with beautiful surroundings and comfortable accommodations.",
+        "host": {
+            "name": "Kumar Suresh",
+            "profilePicture": "kumar_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.5,
+        "reviews": 55,
+        "availability": {
+            "check_in": "2024-10-16",
+            "check_out": "2024-10-22",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Air Conditioning",
+            "Restaurant",
+            "Fishing"
+        ],
+        "reviews_data": [
+            {
+                "user": "Neha Sharma",
+                "date": "2024-08-10",
+                "rating": 4.6,
+                "comment": "Peaceful stay with great amenities. The fishing experience was fantastic."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-07-25",
+                "rating": 4.5,
+                "comment": "Comfortable and serene. Enjoyed the local cuisine at the restaurant."
+            },
+            {
+                "user": "Anita Verma",
+                "date": "2024-09-20",
+                "rating": 4.4,
+                "comment": "Nice escape with good facilities. The Wi-Fi was a bit slow."
+            },
+            {
+                "user": "Vikram Patel",
+                "date": "2024-06-30",
+                "rating": 4.3,
+                "comment": "Lovely stay with good service. The location was very tranquil."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "img": "/fenfushi.webp",
+        "hotelName": "Fenfushi",
+        "distance": "610 km away",
+        "date": "Oct 17 - 23",
+        "price": "5200/night",
+        "location": "Fenfushi, Maldives",
+        "description": "A high-end resort in Fenfushi with stunning ocean views and luxurious amenities.",
+        "host": {
+            "name": "Aisha Noor",
+            "profilePicture": "aisha_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 85,
+        "availability": {
+            "check_in": "2024-10-17",
+            "check_out": "2024-10-23",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Private Villas",
+            "Spa",
+            "Free Breakfast",
+            "Diving"
+        ],
+        "reviews_data": [
+            {
+                "user": "Hassan Mohamed",
+                "date": "2024-09-01",
+                "rating": 4.9,
+                "comment": "An exceptional stay with amazing amenities. The diving experience was unforgettable."
+            },
+            {
+                "user": "Fatima Ali",
+                "date": "2024-08-15",
+                "rating": 4.8,
+                "comment": "Luxurious resort with beautiful private villas and excellent service."
+            },
+            {
+                "user": "Omar Yusuf",
+                "date": "2024-09-10",
+                "rating": 4.7,
+                "comment": "Great resort with fantastic facilities. The free breakfast was a plus."
+            },
+            {
+                "user": "Amina Rahman",
+                "date": "2024-07-20",
+                "rating": 4.6,
+                "comment": "Wonderful stay. The diving and spa services were excellent."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "img": "/bathalaa.webp",
+        "hotelName": "Bathalaa",
+        "distance": "650 km away",
+        "date": "Oct 18 - 24",
+        "price": "5300/night",
+        "location": "Bathalaa, Maldives",
+        "description": "An exclusive retreat in Bathalaa with luxurious accommodations and exceptional views.",
+        "host": {
+            "name": "Mohamed Hussain",
+            "profilePicture": "mohamed_hussain_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 120,
+        "availability": {
+            "check_in": "2024-10-18",
+            "check_out": "2024-10-24",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Luxury Villas",
+            "Private Pool",
+            "Free Transfers",
+            "Gourmet Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Sara Mohamed",
+                "date": "2024-09-12",
+                "rating": 5,
+                "comment": "An incredible experience. The luxury villas and private pool were outstanding."
+            },
+            {
+                "user": "Ibrahim Ali",
+                "date": "2024-08-25",
+                "rating": 4.9,
+                "comment": "Top-notch resort with excellent amenities. The gourmet dining was exceptional."
+            },
+            {
+                "user": "Layla Hassan",
+                "date": "2024-09-18",
+                "rating": 4.8,
+                "comment": "Fantastic stay with beautiful views and luxury accommodations."
+            },
+            {
+                "user": "Ahmed Noor",
+                "date": "2024-07-10",
+                "rating": 4.7,
+                "comment": "Perfect for a luxury getaway. Everything was first class."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "img": "/meeru.webp",
+        "hotelName": "Meeru Island",
+        "distance": "700 km away",
+        "date": "Oct 19 - 25",
+        "price": "5500/night",
+        "description": "A luxurious island resort offering stunning ocean views, high-end amenities, and exceptional service.",
+        "host": {
+            "name": "Aishath Mohamed",
+            "profilePicture": "aishath_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 110,
+        "availability": {
+            "check_in": "2024-10-19",
+            "check_out": "2024-10-25",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Overwater Bungalows",
+            "Spa",
+            "Private Beach",
+            "Fine Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Sofia Ali",
+                "date": "2024-08-30",
+                "rating": 5,
+                "comment": "An exceptional stay with breathtaking views and impeccable service. Worth every penny!"
+            },
+            {
+                "user": "Hassan Zaid",
+                "date": "2024-09-15",
+                "rating": 4.9,
+                "comment": "The overwater bungalows were amazing. The private beach was a highlight of our trip."
+            },
+            {
+                "user": "Amina Karim",
+                "date": "2024-09-20",
+                "rating": 4.8,
+                "comment": "Luxury at its finest. The spa and fine dining options were top-notch."
+            },
+            {
+                "user": "Omar Rashid",
+                "date": "2024-07-25",
+                "rating": 4.7,
+                "comment": "A beautiful resort with excellent amenities. The Wi-Fi could use some improvement."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "img": "/bharje.webp",
+        "hotelName": "Bharje",
+        "distance": "200 km away",
+        "date": "Oct 20 - 27",
+        "price": "4500/night",
+        "description": "A charming getaway in Bharje offering a cozy atmosphere and beautiful surroundings.",
+        "host": {
+            "name": "Rajesh Kumar",
+            "profilePicture": "rajesh_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 65,
+        "availability": {
+            "check_in": "2024-10-20",
+            "check_out": "2024-10-27",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Garden",
+            "Restaurant",
+            "Fishing"
+        ],
+        "reviews_data": [
+            {
+                "user": "Neelam Sharma",
+                "date": "2024-08-05",
+                "rating": 4.7,
+                "comment": "Lovely place with a cozy atmosphere. Enjoyed the garden and fishing options."
+            },
+            {
+                "user": "Anil Verma",
+                "date": "2024-07-18",
+                "rating": 4.6,
+                "comment": "Great stay with good amenities. The restaurant food was delicious."
+            },
+            {
+                "user": "Pooja Gupta",
+                "date": "2024-09-12",
+                "rating": 4.5,
+                "comment": "Comfortable and relaxing. The Wi-Fi was a bit slow, but overall a pleasant experience."
+            },
+            {
+                "user": "Rajeev Singh",
+                "date": "2024-06-30",
+                "rating": 4.4,
+                "comment": "Nice getaway with friendly service. The garden area was beautiful."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "img": "/Vagator.webp",
+        "hotelName": "Vagator",
+        "distance": "300 km away",
+        "date": "Oct 21 - 28",
+        "price": "4800/night",
+        "description": "A stylish resort in Vagator offering modern amenities and a vibrant atmosphere.",
+        "host": {
+            "name": "Isha Rao",
+            "profilePicture": "isha_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 85,
+        "availability": {
+            "check_in": "2024-10-21",
+            "check_out": "2024-10-28",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Swimming Pool",
+            "Bar",
+            "Fitness Center",
+            "Beach Access"
+        ],
+        "reviews_data": [
+            {
+                "user": "Ravi Mehta",
+                "date": "2024-09-02",
+                "rating": 4.8,
+                "comment": "Fantastic stay with modern amenities. The beach access and swimming pool were great."
+            },
+            {
+                "user": "Sanya Patel",
+                "date": "2024-08-18",
+                "rating": 4.7,
+                "comment": "Stylish resort with excellent service. The fitness center was a nice addition."
+            },
+            {
+                "user": "Deepak Joshi",
+                "date": "2024-09-25",
+                "rating": 4.6,
+                "comment": "Great location and amenities. The bar had a good selection of drinks."
+            },
+            {
+                "user": "Kavita Arora",
+                "date": "2024-07-10",
+                "rating": 4.5,
+                "comment": "Lovely resort with a vibrant atmosphere. The Wi-Fi could be improved."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "img": "/morjim.webp",
+        "hotelName": "Morjim",
+        "distance": "250 km away",
+        "date": "Oct 22 - 29",
+        "price": "5000/night",
+        "description": "A luxurious retreat in Morjim with exquisite accommodations and top-notch service.",
+        "host": {
+            "name": "Aarav Singh",
+            "profilePicture": "aarav_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 90,
+        "availability": {
+            "check_in": "2024-10-22",
+            "check_out": "2024-10-29",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Private Villas",
+            "Poolside Bar",
+            "Spa",
+            "Beachfront"
+        ],
+        "reviews_data": [
+            {
+                "user": "Rina Verma",
+                "date": "2024-09-08",
+                "rating": 4.9,
+                "comment": "Exceptional stay with beautiful beachfront villas. The poolside bar was a great touch."
+            },
+            {
+                "user": "Amit Kumar",
+                "date": "2024-08-22",
+                "rating": 4.8,
+                "comment": "Luxurious resort with excellent service. Enjoyed the spa and beachfront location."
+            },
+            {
+                "user": "Sneha Reddy",
+                "date": "2024-09-15",
+                "rating": 4.7,
+                "comment": "Great experience. The private villas and poolside bar were highlights."
+            },
+            {
+                "user": "Rohit Joshi",
+                "date": "2024-07-20",
+                "rating": 4.6,
+                "comment": "Wonderful stay with top-notch amenities. The beachfront view was stunning."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "img": "/siolim35.webp",
+        "hotelName": "Siolim",
+        "distance": "220 km away",
+        "date": "Oct 23 - 30",
+        "price": "5100/night",
+        "location": "Alifu Dhaalu Atoll, Maldives",
+        "description": "A serene retreat in Alifu Dhaalu Atoll, offering pristine beaches and luxurious amenities.",
+        "host": {
+            "name": "Naseem Ali",
+            "profilePicture": "naseem_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 95,
+        "availability": {
+            "check_in": "2024-10-23",
+            "check_out": "2024-10-30",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Pool",
+            "Spa",
+            "Private Beach",
+            "Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Raj Patel",
+                "date": "2024-08-22",
+                "rating": 5,
+                "comment": "An incredible stay! The private beach and luxury amenities were top-notch."
+            },
+            {
+                "user": "Meera Desai",
+                "date": "2024-09-15",
+                "rating": 4,
+                "comment": "Very relaxing, but the service could be a bit quicker."
+            },
+            {
+                "user": "Suman Kumar",
+                "date": "2024-08-30",
+                "rating": 5,
+                "comment": "A paradise on earth. Everything was perfect, from the view to the food."
+            },
+            {
+                "user": "Anil Singh",
+                "date": "2024-07-25",
+                "rating": 4.5,
+                "comment": "Great experience overall. The beach and pool area were amazing."
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "img": "/Vegator36.webp",
+        "hotelName": "Vegator",
+        "distance": "120 km away",
+        "date": "Oct 24 - 31",
+        "price": "3300/night",
+        "location": "Munroe Island, India",
+        "description": "Charming getaway in Munroe Island, known for its beautiful backwaters and traditional hospitality.",
+        "host": {
+            "name": "Priya Menon",
+            "profilePicture": "priya_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 85,
+        "availability": {
+            "check_in": "2024-10-24",
+            "check_out": "2024-10-31",
+            "guests": 4
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Breakfast",
+            "Garden",
+            "Tour Desk"
+        ],
+        "reviews_data": [
+            {
+                "user": "Arjun Rao",
+                "date": "2024-08-10",
+                "rating": 5,
+                "comment": "Fantastic stay with beautiful views of the backwaters."
+            },
+            {
+                "user": "Sunita Sharma",
+                "date": "2024-07-05",
+                "rating": 4,
+                "comment": "Very cozy, but the Wi-Fi connection was intermittent."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-09-20",
+                "rating": 4.5,
+                "comment": "Wonderful experience. The garden and breakfast were highlights."
+            },
+            {
+                "user": "Neha Singh",
+                "date": "2024-08-15",
+                "rating": 5,
+                "comment": "A peaceful retreat with excellent hospitality."
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "img": "/lonavla37.webp",
+        "hotelName": "Lonavla",
+        "distance": "270 km away",
+        "date": "Oct 25 - Nov 1",
+        "price": "3700/night",
+        "location": "Fenfushi, Maldives",
+        "description": "Luxury accommodation in Fenfushi, offering stunning views and top-tier service.",
+        "host": {
+            "name": "Ahmed Shah",
+            "profilePicture": "ahmed_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 120,
+        "availability": {
+            "check_in": "2024-10-25",
+            "check_out": "2024-11-01",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Private Pool",
+            "Jacuzzi",
+            "Beach Access",
+            "Fine Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Kavita Deshmukh",
+                "date": "2024-09-05",
+                "rating": 5,
+                "comment": "An extraordinary experience. The private pool and view were unforgettable."
+            },
+            {
+                "user": "Rohan Gupta",
+                "date": "2024-08-20",
+                "rating": 4.5,
+                "comment": "Beautiful place with excellent amenities. A bit pricey, but worth it."
+            },
+            {
+                "user": "Sonal Patel",
+                "date": "2024-09-10",
+                "rating": 4,
+                "comment": "Great stay. The beach access was a real bonus."
+            },
+            {
+                "user": "Rajesh Sharma",
+                "date": "2024-07-15",
+                "rating": 5,
+                "comment": "Perfect retreat for relaxation. Service was exceptional."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "img": "/chopdem.webp",
+        "hotelName": "Chopdem",
+        "distance": "230 km away",
+        "date": "Oct 26 - Nov 2",
+        "price": "3900/night",
+        "location": "Bathalaa, Maldives",
+        "description": "A tropical paradise with stunning views and premium amenities.",
+        "host": {
+            "name": "Fatima Noor",
+            "profilePicture": "fatima_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 75,
+        "availability": {
+            "check_in": "2024-10-26",
+            "check_out": "2024-11-02",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Infinity Pool",
+            "Spa",
+            "Private Beach",
+            "Gourmet Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Amit Singh",
+                "date": "2024-09-08",
+                "rating": 5,
+                "comment": "A beautiful place with excellent service and breathtaking views."
+            },
+            {
+                "user": "Pooja Patel",
+                "date": "2024-08-15",
+                "rating": 4.5,
+                "comment": "Amazing resort with top-notch facilities. Slightly expensive but worth the splurge."
+            },
+            {
+                "user": "Gaurav Rao",
+                "date": "2024-09-22",
+                "rating": 4,
+                "comment": "Nice stay, but the check-in process was a bit slow."
+            },
+            {
+                "user": "Ananya Verma",
+                "date": "2024-07-20",
+                "rating": 5,
+                "comment": "Exceptional experience. The infinity pool was a highlight."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "img": "/mandve.webp",
+        "hotelName": "Mandve",
+        "distance": "300 km away",
+        "date": "Oct 27 - Nov 3",
+        "price": "4500/night",
+        "location": "Male, Maldives",
+        "description": "An exquisite resort in Male, offering luxurious accommodations and stunning ocean views.",
+        "host": {
+            "name": "Zara Khan",
+            "profilePicture": "zara_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.9,
+        "reviews": 100,
+        "availability": {
+            "check_in": "2024-10-27",
+            "check_out": "2024-11-03",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Private Beach",
+            "Infinity Pool",
+            "Spa",
+            "Fine Dining"
+        ],
+        "reviews_data": [
+            {
+                "user": "Nitin Sharma",
+                "date": "2024-09-10",
+                "rating": 5,
+                "comment": "Incredible stay! The private beach and infinity pool were outstanding."
+            },
+            {
+                "user": "Sanya Patel",
+                "date": "2024-08-22",
+                "rating": 4.5,
+                "comment": "Fantastic experience, but the service at the restaurant could be improved."
+            },
+            {
+                "user": "Amit Desai",
+                "date": "2024-09-05",
+                "rating": 4.8,
+                "comment": "A true paradise. The views were breathtaking and the amenities were top-notch."
+            },
+            {
+                "user": "Kritika Rao",
+                "date": "2024-07-15",
+                "rating": 5,
+                "comment": "Amazing resort with excellent service. The private beach was a highlight."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "img": "/jibhi.webp",
+        "hotelName": "Jibhi",
+        "distance": "150 km away",
+        "date": "Oct 28 - Nov 4",
+        "price": "3200/night",
+        "description": "A charming stay in Jibhi, known for its serene environment and comfortable accommodations.",
+        "host": {
+            "name": "Arjun Mehta",
+            "profilePicture": "arjun_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.6,
+        "reviews": 65,
+        "availability": {
+            "check_in": "2024-10-28",
+            "check_out": "2024-11-04",
+            "guests": 3
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Free Breakfast",
+            "Tour Desk"
+        ],
+        "reviews_data": [
+            {
+                "user": "Riya Sharma",
+                "date": "2024-09-12",
+                "rating": 4.5,
+                "comment": "Very cozy and peaceful. The garden was a lovely place to relax."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-08-18",
+                "rating": 4,
+                "comment": "Good stay, but the Wi-Fi was a bit weak in the rooms."
+            },
+            {
+                "user": "Sneha Patel",
+                "date": "2024-09-25",
+                "rating": 4.7,
+                "comment": "Great place to unwind. The breakfast and garden were particularly enjoyable."
+            },
+            {
+                "user": "Amit Desai",
+                "date": "2024-07-20",
+                "rating": 5,
+                "comment": "Wonderful experience. The location and amenities were perfect."
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "img": "/sainj.webp",
+        "hotelName": "Sainj",
+        "distance": "180 km away",
+        "date": "Oct 29 - Nov 5",
+        "price": "3300/night",
+        "description": "A scenic getaway in Sainj, offering picturesque views and a relaxing atmosphere.",
+        "host": {
+            "name": "Sunil Mehta",
+            "profilePicture": "sunil_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 80,
+        "availability": {
+            "check_in": "2024-10-29",
+            "check_out": "2024-11-05",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Free Parking",
+            "Garden",
+            "Tour Desk"
+        ],
+        "reviews_data": [
+            {
+                "user": "Maya Singh",
+                "date": "2024-08-30",
+                "rating": 5,
+                "comment": "Stunning location with beautiful views. The service was exceptional."
+            },
+            {
+                "user": "Vikram Rao",
+                "date": "2024-09-12",
+                "rating": 4.5,
+                "comment": "Great stay, though the check-in process was a bit slow."
+            },
+            {
+                "user": "Priya Sharma",
+                "date": "2024-09-20",
+                "rating": 4,
+                "comment": "Very peaceful and scenic. The garden area was a nice touch."
+            },
+            {
+                "user": "Rajesh Patel",
+                "date": "2024-07-10",
+                "rating": 5,
+                "comment": "Perfect retreat. The views and atmosphere were just what we needed."
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "img": "/hemmathagama.webp",
+        "hotelName": "Hemmathagama",
+        "distance": "200 km away",
+        "date": "Oct 30 - Nov 6",
+        "price": "3400/night",
+        "description": "A tranquil retreat in Hemmathagama, offering serene surroundings and comfortable accommodations.",
+        "host": {
+            "name": "Lalitha Fernando",
+            "profilePicture": "lalitha_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 90,
+        "availability": {
+            "check_in": "2024-10-30",
+            "check_out": "2024-11-06",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Free Breakfast",
+            "Spa",
+            "Tour Desk"
+        ],
+        "reviews_data": [
+            {
+                "user": "Kumar Das",
+                "date": "2024-09-08",
+                "rating": 5,
+                "comment": "An excellent stay with beautiful surroundings. The garden and breakfast were highlights."
+            },
+            {
+                "user": "Nisha Reddy",
+                "date": "2024-08-25",
+                "rating": 4.5,
+                "comment": "Very relaxing and peaceful. The service was good but could be improved."
+            },
+            {
+                "user": "Rakesh Sharma",
+                "date": "2024-09-15",
+                "rating": 4,
+                "comment": "Nice place to stay. The garden was beautiful, and breakfast was decent."
+            },
+            {
+                "user": "Anita Mehta",
+                "date": "2024-07-05",
+                "rating": 5,
+                "comment": "Wonderful experience. The peaceful environment was just what we needed."
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "img": "/dehradun.webp",
+        "hotelName": "Dehradun",
+        "distance": "220 km away",
+        "date": "Oct 31 - Nov 7",
+        "price": "3500/night",
+        "description": "A comfortable stay in Dehradun with beautiful views and modern amenities.",
+        "host": {
+            "name": "Suresh Kumar",
+            "profilePicture": "suresh_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 70,
+        "availability": {
+            "check_in": "2024-10-31",
+            "check_out": "2024-11-07",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Garden",
+            "Restaurant",
+            "Tour Desk"
+        ],
+        "reviews_data": [
+            {
+                "user": "Aditi Patel",
+                "date": "2024-09-15",
+                "rating": 4.5,
+                "comment": "Great stay with beautiful views. The garden was lovely."
+            },
+            {
+                "user": "Rajiv Sharma",
+                "date": "2024-08-30",
+                "rating": 4.7,
+                "comment": "Very comfortable and relaxing. The restaurant food was excellent."
+            },
+            {
+                "user": "Nisha Desai",
+                "date": "2024-09-05",
+                "rating": 4.6,
+                "comment": "Nice place with modern amenities. Could improve on the check-in process."
+            },
+            {
+                "user": "Deepak Rao",
+                "date": "2024-07-20",
+                "rating": 4.8,
+                "comment": "Wonderful stay. The garden and restaurant were highlights."
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "img": "/shimla.webp",
+        "hotelName": "Shimla",
+        "distance": "250 km away",
+        "date": "Nov 1 - 8",
+        "price": "3600/night",
+        "description": "A scenic retreat in Shimla offering cozy accommodations and breathtaking views.",
+        "host": {
+            "name": "Anil Joshi",
+            "profilePicture": "anil_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.5,
+        "reviews": 85,
+        "availability": {
+            "check_in": "2024-11-01",
+            "check_out": "2024-11-08",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Heating",
+            "Free Breakfast",
+            "Balcony"
+        ],
+        "reviews_data": [
+            {
+                "user": "Meera Sharma",
+                "date": "2024-09-20",
+                "rating": 4.6,
+                "comment": "Great location with amazing views. The balcony was perfect for relaxing."
+            },
+            {
+                "user": "Vikas Patel",
+                "date": "2024-08-15",
+                "rating": 4.5,
+                "comment": "Very cozy stay. The heating was much appreciated during the cold nights."
+            },
+            {
+                "user": "Anjali Reddy",
+                "date": "2024-09-10",
+                "rating": 4.4,
+                "comment": "Comfortable accommodations. Breakfast could be improved."
+            },
+            {
+                "user": "Ramesh Kumar",
+                "date": "2024-07-30",
+                "rating": 4.7,
+                "comment": "Lovely stay with stunning views. The heating system was efficient and cozy."
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "img": "/ko_pha_ngan_district.webp",
+        "hotelName": "Ko pha-ngan District",
+        "distance": "300 km away",
+        "date": "Nov 2 - 9",
+        "price": "3700/night",
+        "description": "A tropical getaway in Ko pha-ngan with stunning beach views and excellent amenities.",
+        "host": {
+            "name": "Kritika Singh",
+            "profilePicture": "kritika_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 95,
+        "availability": {
+            "check_in": "2024-11-02",
+            "check_out": "2024-11-09",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Beachfront",
+            "Spa",
+            "Swimming Pool",
+            "Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Aarav Patel",
+                "date": "2024-09-18",
+                "rating": 5,
+                "comment": "Amazing beach resort with beautiful views. The spa and pool were fantastic."
+            },
+            {
+                "user": "Sonal Mehta",
+                "date": "2024-08-28",
+                "rating": 4.7,
+                "comment": "Wonderful stay. The beachfront location was perfect for a relaxing holiday."
+            },
+            {
+                "user": "Ravi Sharma",
+                "date": "2024-09-12",
+                "rating": 4.8,
+                "comment": "Great amenities and service. The spa experience was exceptional."
+            },
+            {
+                "user": "Nisha Singh",
+                "date": "2024-07-25",
+                "rating": 4.9,
+                "comment": "Fantastic stay with excellent facilities. The beach and pool were highlights."
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "img": "/bhoirwadi.webp",
+        "hotelName": "Bhoirwadi",
+        "distance": "120 km away",
+        "date": "Nov 3 - 10",
+        "price": "3400/night",
+        "description": "A peaceful retreat in Bhoirwadi with comfortable rooms and beautiful surroundings.",
+        "host": {
+            "name": "Sandeep Desai",
+            "profilePicture": "sandeep_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.4,
+        "reviews": 60,
+        "availability": {
+            "check_in": "2024-11-03",
+            "check_out": "2024-11-10",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Free Parking",
+            "Breakfast",
+            "Tour Desk"
+        ],
+        "reviews_data": [
+            {
+                "user": "Neha Patel",
+                "date": "2024-09-25",
+                "rating": 4.5,
+                "comment": "Nice and peaceful location. The garden area was very relaxing."
+            },
+            {
+                "user": "Kunal Sharma",
+                "date": "2024-08-30",
+                "rating": 4.3,
+                "comment": "Comfortable stay with good amenities. Breakfast could be better."
+            },
+            {
+                "user": "Anita Reddy",
+                "date": "2024-09-12",
+                "rating": 4.6,
+                "comment": "Great place to unwind. The garden and tour desk were very helpful."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-07-18",
+                "rating": 4.7,
+                "comment": "Excellent stay. The garden was a perfect spot to relax after a day of sightseeing."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "img": "/siloti_pant.webp",
+        "hotelName": "Siloti Pant",
+        "distance": "140 km away",
+        "date": "Nov 4 - 11",
+        "price": "3500/night",
+        "description": "A charming stay in Siloti Pant with traditional decor and comfortable accommodations.",
+        "host": {
+            "name": "Rajesh Kumar",
+            "profilePicture": "rajesh_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 45,
+        "availability": {
+            "check_in": "2024-11-04",
+            "check_out": "2024-11-11",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Breakfast",
+            "Traditional Decor",
+            "Free Parking"
+        ],
+        "reviews_data": [
+            {
+                "user": "Suman Patel",
+                "date": "2024-09-20",
+                "rating": 4.8,
+                "comment": "Lovely place with traditional decor. Breakfast was delicious."
+            },
+            {
+                "user": "Gaurav Singh",
+                "date": "2024-08-15",
+                "rating": 4.7,
+                "comment": "Comfortable stay with great amenities. Traditional decor was a nice touch."
+            },
+            {
+                "user": "Ritika Sharma",
+                "date": "2024-09-05",
+                "rating": 4.6,
+                "comment": "Nice stay. The traditional decor and breakfast were highlights."
+            },
+            {
+                "user": "Ankur Desai",
+                "date": "2024-07-30",
+                "rating": 4.5,
+                "comment": "Great location and traditional ambiance. Breakfast could be improved."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "img": "/munnar.webp",
+        "hotelName": "Munnar",
+        "distance": "220 km away",
+        "date": "Nov 5 - 12",
+        "price": "3700/night",
+        "description": "A serene retreat in Munnar with lush greenery and modern amenities.",
+        "host": {
+            "name": "Ravi Nair",
+            "profilePicture": "ravi_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.6,
+        "reviews": 55,
+        "availability": {
+            "check_in": "2024-11-05",
+            "check_out": "2024-11-12",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Free Breakfast",
+            "Coffee Maker"
+        ],
+        "reviews_data": [
+            {
+                "user": "Priya Kumar",
+                "date": "2024-09-22",
+                "rating": 4.7,
+                "comment": "Beautiful location with lush greenery. Breakfast was great."
+            },
+            {
+                "user": "Suresh Desai",
+                "date": "2024-08-10",
+                "rating": 4.6,
+                "comment": "Comfortable stay with excellent amenities. The coffee maker was a nice touch."
+            },
+            {
+                "user": "Neha Patel",
+                "date": "2024-09-15",
+                "rating": 4.5,
+                "comment": "Nice stay with a beautiful garden. Breakfast could be improved."
+            },
+            {
+                "user": "Ravi Sharma",
+                "date": "2024-07-25",
+                "rating": 4.8,
+                "comment": "Great stay with modern amenities and a lovely garden."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "img": "/hiriwadunna.webp",
+        "hotelName": "Hiriwadunna",
+        "distance": "180 km away",
+        "date": "Nov 6 - 13",
+        "price": "3600/night",
+        "description": "A tranquil retreat in Hiriwadunna with comfortable accommodations and scenic views.",
+        "host": {
+            "name": "Keshav Kumar",
+            "profilePicture": "keshav_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 50,
+        "availability": {
+            "check_in": "2024-11-06",
+            "check_out": "2024-11-13",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Scenic Views",
+            "Free Parking",
+            "Restaurant"
+        ],
+        "reviews_data": [
+            {
+                "user": "Aarti Sharma",
+                "date": "2024-09-18",
+                "rating": 4.8,
+                "comment": "Beautiful location with scenic views. The restaurant was excellent."
+            },
+            {
+                "user": "Rajesh Patel",
+                "date": "2024-08-22",
+                "rating": 4.6,
+                "comment": "Great stay with comfortable accommodations. The views were stunning."
+            },
+            {
+                "user": "Anjali Desai",
+                "date": "2024-09-10",
+                "rating": 4.7,
+                "comment": "Nice and peaceful location. The restaurant service was top-notch."
+            },
+            {
+                "user": "Deepak Kumar",
+                "date": "2024-07-28",
+                "rating": 4.5,
+                "comment": "Comfortable stay with beautiful views. Could improve on Wi-Fi speed."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "img": "/sainj50.webp",
+        "hotelName": "Sainj",
+        "distance": "150 km away",
+        "date": "Nov 7 - 14",
+        "price": "3400/night",
+        "description": "A cozy retreat in Sainj with modern amenities and a serene atmosphere.",
+        "host": {
+            "name": "Meera Nair",
+            "profilePicture": "meera_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.4,
+        "reviews": 35,
+        "availability": {
+            "check_in": "2024-11-07",
+            "check_out": "2024-11-14",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Free Parking",
+            "Garden",
+            "Breakfast"
+        ],
+        "reviews_data": [
+            {
+                "user": "Rani Singh",
+                "date": "2024-09-30",
+                "rating": 4.5,
+                "comment": "Cozy stay with a nice garden. Breakfast was good."
+            },
+            {
+                "user": "Sanjay Sharma",
+                "date": "2024-08-18",
+                "rating": 4.3,
+                "comment": "Comfortable stay with basic amenities. Could improve on breakfast options."
+            },
+            {
+                "user": "Neha Patel",
+                "date": "2024-09-12",
+                "rating": 4.4,
+                "comment": "Nice stay with modern amenities. The garden area was relaxing."
+            },
+            {
+                "user": "Amit Kumar",
+                "date": "2024-07-20",
+                "rating": 4.6,
+                "comment": "Good value for money. The garden and breakfast were highlights."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "img": "/jibhi51.webp",
+        "hotelName": "Jibhi",
+        "distance": "190 km away",
+        "date": "Nov 8 - 15",
+        "price": "3300/night",
+        "description": "A serene retreat in Jibhi with lush landscapes and modern amenities.",
+        "host": {
+            "name": "Arjun Kumar",
+            "profilePicture": "arjun_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.6,
+        "reviews": 40,
+        "availability": {
+            "check_in": "2024-11-08",
+            "check_out": "2024-11-15",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Free Parking",
+            "Coffee Maker"
+        ],
+        "reviews_data": [
+            {
+                "user": "Divya Sharma",
+                "date": "2024-09-25",
+                "rating": 4.7,
+                "comment": "Beautiful location with lush landscapes. Coffee maker was a nice touch."
+            },
+            {
+                "user": "Ravi Patel",
+                "date": "2024-08-30",
+                "rating": 4.5,
+                "comment": "Comfortable stay with good amenities. The garden was very relaxing."
+            },
+            {
+                "user": "Pooja Singh",
+                "date": "2024-09-12",
+                "rating": 4.6,
+                "comment": "Nice retreat with serene surroundings. Wi-Fi could be improved."
+            },
+            {
+                "user": "Karan Desai",
+                "date": "2024-07-15",
+                "rating": 4.4,
+                "comment": "Great stay with beautiful views. Coffee maker and garden were highlights."
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "img": "/lonavla52.webp",
+        "hotelName": "Lonavla",
+        "distance": "100 km away",
+        "date": "Nov 9 - 16",
+        "price": "3800/night",
+        "description": "A luxurious stay in Lonavla with top-notch facilities and scenic views.",
+        "host": {
+            "name": "Nisha Gupta",
+            "profilePicture": "nisha_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.8,
+        "reviews": 60,
+        "availability": {
+            "check_in": "2024-11-09",
+            "check_out": "2024-11-16",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Swimming Pool",
+            "Free Breakfast",
+            "Gym"
+        ],
+        "reviews_data": [
+            {
+                "user": "Amit Sharma",
+                "date": "2024-09-28",
+                "rating": 4.9,
+                "comment": "Exceptional stay with luxurious amenities. The swimming pool was amazing."
+            },
+            {
+                "user": "Sanya Patel",
+                "date": "2024-08-25",
+                "rating": 4.7,
+                "comment": "Great facilities and scenic views. Gym and breakfast were highlights."
+            },
+            {
+                "user": "Rajiv Kumar",
+                "date": "2024-09-10",
+                "rating": 4.6,
+                "comment": "Comfortable stay with excellent amenities. The swimming pool was refreshing."
+            },
+            {
+                "user": "Maya Singh",
+                "date": "2024-07-10",
+                "rating": 4.8,
+                "comment": "Luxurious experience with top-notch facilities. Would definitely recommend."
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "img": "/kozhikode.webp",
+        "hotelName": "Kozhikode",
+        "distance": "250 km away",
+        "date": "Nov 10 - 17",
+        "price": "4000/night",
+        "description": "A vibrant stay in Kozhikode with a mix of modern amenities and traditional charm.",
+        "host": {
+            "name": "Ananya Nair",
+            "profilePicture": "ananya_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.7,
+        "reviews": 50,
+        "availability": {
+            "check_in": "2024-11-10",
+            "check_out": "2024-11-17",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Restaurant",
+            "Spa",
+            "Free Parking"
+        ],
+        "reviews_data": [
+            {
+                "user": "Deepak Menon",
+                "date": "2024-09-15",
+                "rating": 4.8,
+                "comment": "Fantastic experience with excellent facilities. The restaurant was top-notch."
+            },
+            {
+                "user": "Nina Thomas",
+                "date": "2024-08-20",
+                "rating": 4.7,
+                "comment": "Great stay with good amenities. The spa service was very relaxing."
+            },
+            {
+                "user": "Ravi Kumar",
+                "date": "2024-09-05",
+                "rating": 4.6,
+                "comment": "Comfortable stay with modern facilities. The restaurant offered a great variety of dishes."
+            },
+            {
+                "user": "Meera Reddy",
+                "date": "2024-07-18",
+                "rating": 4.5,
+                "comment": "Nice hotel with good amenities. Enjoyed the spa and restaurant facilities."
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "img": "/gajar.webp",
+        "hotelName": "Gajar",
+        "distance": "120 km away",
+        "date": "Nov 11 - 18",
+        "price": "3200/night",
+        "description": "A charming retreat in Gajar offering a peaceful stay with modern comforts.",
+        "host": {
+            "name": "Sanjay Patel",
+            "profilePicture": "sanjay_profile.jpg",
+            "superhost": false
+        },
+        "rating": 4.5,
+        "reviews": 35,
+        "availability": {
+            "check_in": "2024-11-11",
+            "check_out": "2024-11-18",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Free Breakfast",
+            "Coffee Maker"
+        ],
+        "reviews_data": [
+            {
+                "user": "Priya Kapoor",
+                "date": "2024-09-20",
+                "rating": 4.6,
+                "comment": "Lovely place with peaceful surroundings. Breakfast was delightful."
+            },
+            {
+                "user": "Amit Desai",
+                "date": "2024-08-15",
+                "rating": 4.4,
+                "comment": "Good stay with comfortable amenities. The coffee maker was a nice addition."
+            },
+            {
+                "user": "Anil Kumar",
+                "date": "2024-09-10",
+                "rating": 4.5,
+                "comment": "Nice retreat with good facilities. Enjoyed the garden and breakfast."
+            },
+            {
+                "user": "Rita Sharma",
+                "date": "2024-07-25",
+                "rating": 4.3,
+                "comment": "Comfortable stay with pleasant amenities. The garden was very relaxing."
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "img": "/kerala.webp",
+        "hotelName": "Kerala",
+        "distance": "200 km away",
+        "date": "Nov 12 - 19",
+        "price": "3500/night",
+        "description": "A beautiful stay in Kerala with lush landscapes and excellent service.",
+        "host": {
+            "name": "Sunil Nair",
+            "profilePicture": "sunil_profile.jpg",
+            "superhost": true
+        },
+        "rating": 4.8,
+        "reviews": 45,
+        "availability": {
+            "check_in": "2024-11-12",
+            "check_out": "2024-11-19",
+            "guests": 2
+        },
+        "amenities": [
+            "Wi-Fi",
+            "Swimming Pool",
+            "Free Parking",
+            "Spa"
+        ],
+        "reviews_data": [
+            {
+                "user": "Rina Menon",
+                "date": "2024-09-18",
+                "rating": 4.9,
+                "comment": "Fantastic stay with amazing amenities. The swimming pool was fantastic."
+            },
+            {
+                "user": "Rajesh Pillai",
+                "date": "2024-08-25",
+                "rating": 4.7,
+                "comment": "Great experience with excellent service. The spa and pool were highlights."
+            },
+            {
+                "user": "Meenakshi Reddy",
+                "date": "2024-09-05",
+                "rating": 4.6,
+                "comment": "Very comfortable stay with beautiful surroundings. Loved the swimming pool."
+            },
+            {
+                "user": "Vikram Kumar",
+                "date": "2024-07-22",
+                "rating": 4.5,
+                "comment": "Wonderful retreat with great facilities. The spa service was very relaxing."
+            }
+        ]
+    }
+]
