@@ -1,8 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-
 import Card from './Card';
-import { Link } from 'react-router-dom';
+
 
 
 const HotelSection = ({hoteldata}) => {

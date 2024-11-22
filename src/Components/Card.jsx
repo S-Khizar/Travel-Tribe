@@ -22,4 +22,4 @@ const Card = ({img,hotelName,distance,date,price,id}) => {
   )
 }
 
-export default Card
+export default Card 

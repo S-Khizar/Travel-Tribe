@@ -20,15 +20,20 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar />
-      <Routes>
+       <Routes>
           <Route path="/" element={<HotelSection hoteldata={hoteldata}/>}/>
           <Route path="hotel/:id" element={<HotelPage hotelData={hoteldata}/>}/>
           <Route path="/about" element={<About/>}/>
           <Route path="/traveltribehost" element={<HostPropertyForm/>}/>
 
-      </Routes>
-      <Footer />
+      </Routes> 
+      
+       <Footer /> 
+
     </BrowserRouter>
+
+    
+    
   )
 }
 

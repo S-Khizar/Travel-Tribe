@@ -20,7 +20,7 @@ const Footer = () => {
 
                     <p className='text-3xl mb-4'>Inspiration for futer getaways</p>
                     <Tabs >
-                        <TabList className='flex gap-x-16 p-2 md:gap-x-1  ' >
+                        <TabList className='flex flex-col md:flex-row  gap-x-16 p-2 md:gap-x-1  ' >
                             <Tab className='bg-gray-100  cursor-pointer p-2'>Popular</Tab>
                             <Tab className='bg-gray-100 cursor-pointer p-2'>Arts & culture</Tab>
                             <Tab className='bg-gray-100  cursor-pointer p-2'>Outdoors</Tab>
